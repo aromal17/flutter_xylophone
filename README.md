@@ -1,6 +1,7 @@
-# flutter_xylophone
+# Flutter_xylophone
 
-A new Flutter application.
+A xylophone application made using flutter.\
+Each mallet of the xylophone is added as a flat button having different colours and producing different sounds.
 
 ## Getting Started
 
